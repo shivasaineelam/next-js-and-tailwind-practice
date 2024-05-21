@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gh {
+  @apply bg-red-300 text-green-500;
+}
