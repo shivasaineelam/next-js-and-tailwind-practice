@@ -16,9 +16,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <header className="bg-red-500">header</header>
+        {/* <header className="bg-red-500">header</header> */}
         {children}
-        <footer>footer</footer>
+        {/* <footer>footer</footer> */}
       </body>
     </html>
   );
